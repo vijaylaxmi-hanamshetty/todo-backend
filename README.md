@@ -85,7 +85,7 @@ A simple TODO application backend built using **FastAPI** and **SQLite**. This R
 ```
 
 ```json
-```{
+{
   "id": 1,
   "title": "Buy groceries and fruit",
   "description": "Milk, Bread, Eggs, Apples",
