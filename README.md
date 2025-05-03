@@ -2,7 +2,6 @@
 
 A simple TODO application backend built using **FastAPI** and **SQLite**. This REST API allows you to create, read, update, and delete todo items.
 
----
 
 ## API Endpoints
 
