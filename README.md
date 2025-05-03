@@ -77,12 +77,14 @@ A simple TODO application backend built using **FastAPI** and **SQLite**. This R
 **Endpoint**: `PUT /todos/{id}`
 
 **Request Body**:
-```{
-  "title": "Buy groceries and fruit",
-  "description": "Milk, Bread, Eggs, Apples",
-  "completed": true
+```
+ {
+  "title": "Buy groceries",
+  "description": "Milk, Bread, Eggs",
+  "completed": false
 }
 ```
+**Response**:
 
 ```json
 {
